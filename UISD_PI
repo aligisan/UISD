@@ -1,0 +1,15 @@
+
+* Creating New User
+	* Header
+		* Button: Add New User
+		* CheckBox: Hide Disabled User Option
+		* Button: Save User
+	* User List Area (One row for each user)
+		* Columns; ID, UserName, Email, Enabled
+			* Each column has an option to sort incremental, decremental or filter
+	* Information Area for the New User
+		* Header as “New User”
+		* Rows; Username, DisplayName, Phone, Email, UserRoles, Enabled
+			* Username, DisplayName, Phone & Email have Input Boxes to fill related information
+			* UserRoles has dropdown menu with three options: Guest, Admin & SuperAdmin
+			* Enabled has checkbox
